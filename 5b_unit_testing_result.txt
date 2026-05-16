@@ -1,0 +1,6 @@
+theia@theiadocker-crizzhtc:/home/project/final_project$ python3 test_emotion_detection.py 
+joy
+anger
+disgust
+sadness
+fear
